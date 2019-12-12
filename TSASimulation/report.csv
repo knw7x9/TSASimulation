@@ -1,0 +1,1170 @@
+
+Stack
+Average arrival rate: 1
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 1
+Average wait time using 1 queue(s): 0
+Average wait time using 2 queue(s): 0
+Average wait time using 3 queue(s): 0
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 1
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 2
+Average wait time using 1 stack(s): 3
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 2
+Average wait time using 1 queue(s): 9
+Average wait time using 2 queue(s): 0
+Average wait time using 3 queue(s): 0
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 2
+Average wait time using 1 deque(s): 6
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 3
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 3
+Average wait time using 1 queue(s): 121
+Average wait time using 2 queue(s): 0
+Average wait time using 3 queue(s): 0
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 3
+Average wait time using 1 deque(s): 1
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 4
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 2
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 4
+Average wait time using 1 queue(s): 178
+Average wait time using 2 queue(s): 6
+Average wait time using 3 queue(s): 0
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 4
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 4
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 5
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 5
+Average wait time using 1 queue(s): 216
+Average wait time using 2 queue(s): 72
+Average wait time using 3 queue(s): 0
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 5
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 2
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 6
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 2
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 6
+Average wait time using 1 queue(s): 239
+Average wait time using 2 queue(s): 120
+Average wait time using 3 queue(s): 4
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 6
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 1
+Average wait time using 3 deque(s): 4
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 7
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 7
+Average wait time using 1 queue(s): 256
+Average wait time using 2 queue(s): 154
+Average wait time using 3 queue(s): 51
+Average wait time using 4 queue(s): 0
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 7
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 3
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 8
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 1
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 8
+Average wait time using 1 queue(s): 269
+Average wait time using 2 queue(s): 178
+Average wait time using 3 queue(s): 88
+Average wait time using 4 queue(s): 3
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 8
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 1
+Average wait time using 4 deque(s): 3
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 9
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 9
+Average wait time using 1 queue(s): 279
+Average wait time using 2 queue(s): 199
+Average wait time using 3 queue(s): 118
+Average wait time using 4 queue(s): 39
+Average wait time using 5 queue(s): 0
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 9
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 1
+Average wait time using 4 deque(s): 4
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 10
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 1
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 10
+Average wait time using 1 queue(s): 287
+Average wait time using 2 queue(s): 216
+Average wait time using 3 queue(s): 144
+Average wait time using 4 queue(s): 71
+Average wait time using 5 queue(s): 3
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 10
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 2
+Average wait time using 5 deque(s): 3
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 11
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 11
+Average wait time using 1 queue(s): 293
+Average wait time using 2 queue(s): 228
+Average wait time using 3 queue(s): 163
+Average wait time using 4 queue(s): 98
+Average wait time using 5 queue(s): 32
+Average wait time using 6 queue(s): 0
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 11
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 1
+Average wait time using 5 deque(s): 5
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 12
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 1
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 12
+Average wait time using 1 queue(s): 298
+Average wait time using 2 queue(s): 239
+Average wait time using 3 queue(s): 179
+Average wait time using 4 queue(s): 119
+Average wait time using 5 queue(s): 60
+Average wait time using 6 queue(s): 3
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 12
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 1
+Average wait time using 5 deque(s): 2
+Average wait time using 6 deque(s): 2
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 13
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 13
+Average wait time using 1 queue(s): 304
+Average wait time using 2 queue(s): 248
+Average wait time using 3 queue(s): 193
+Average wait time using 4 queue(s): 137
+Average wait time using 5 queue(s): 83
+Average wait time using 6 queue(s): 27
+Average wait time using 7 queue(s): 0
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 13
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 1
+Average wait time using 6 deque(s): 5
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 14
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 1
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 14
+Average wait time using 1 queue(s): 307
+Average wait time using 2 queue(s): 256
+Average wait time using 3 queue(s): 204
+Average wait time using 4 queue(s): 153
+Average wait time using 5 queue(s): 101
+Average wait time using 6 queue(s): 51
+Average wait time using 7 queue(s): 3
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 14
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 1
+Average wait time using 6 deque(s): 3
+Average wait time using 7 deque(s): 2
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 15
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 15
+Average wait time using 1 queue(s): 311
+Average wait time using 2 queue(s): 263
+Average wait time using 3 queue(s): 216
+Average wait time using 4 queue(s): 167
+Average wait time using 5 queue(s): 119
+Average wait time using 6 queue(s): 71
+Average wait time using 7 queue(s): 23
+Average wait time using 8 queue(s): 0
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 15
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 2
+Average wait time using 7 deque(s): 6
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 16
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 1
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 16
+Average wait time using 1 queue(s): 314
+Average wait time using 2 queue(s): 269
+Average wait time using 3 queue(s): 224
+Average wait time using 4 queue(s): 179
+Average wait time using 5 queue(s): 134
+Average wait time using 6 queue(s): 89
+Average wait time using 7 queue(s): 43
+Average wait time using 8 queue(s): 2
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 16
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 1
+Average wait time using 7 deque(s): 4
+Average wait time using 8 deque(s): 2
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 17
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 17
+Average wait time using 1 queue(s): 317
+Average wait time using 2 queue(s): 275
+Average wait time using 3 queue(s): 231
+Average wait time using 4 queue(s): 190
+Average wait time using 5 queue(s): 147
+Average wait time using 6 queue(s): 105
+Average wait time using 7 queue(s): 63
+Average wait time using 8 queue(s): 21
+Average wait time using 9 queue(s): 0
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 17
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 1
+Average wait time using 7 deque(s): 2
+Average wait time using 8 deque(s): 6
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 18
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 1
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 18
+Average wait time using 1 queue(s): 319
+Average wait time using 2 queue(s): 279
+Average wait time using 3 queue(s): 239
+Average wait time using 4 queue(s): 199
+Average wait time using 5 queue(s): 159
+Average wait time using 6 queue(s): 119
+Average wait time using 7 queue(s): 79
+Average wait time using 8 queue(s): 40
+Average wait time using 9 queue(s): 2
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 18
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 1
+Average wait time using 7 deque(s): 1
+Average wait time using 8 deque(s): 4
+Average wait time using 9 deque(s): 2
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 19
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 19
+Average wait time using 1 queue(s): 321
+Average wait time using 2 queue(s): 283
+Average wait time using 3 queue(s): 245
+Average wait time using 4 queue(s): 207
+Average wait time using 5 queue(s): 170
+Average wait time using 6 queue(s): 132
+Average wait time using 7 queue(s): 94
+Average wait time using 8 queue(s): 56
+Average wait time using 9 queue(s): 18
+Average wait time using 10 queue(s): 0
+
+Deque
+Average arrival rate: 19
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 1
+Average wait time using 8 deque(s): 3
+Average wait time using 9 deque(s): 7
+Average wait time using 10 deque(s): 0
+
+Stack
+Average arrival rate: 20
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 1
+
+Queue
+Average arrival rate: 20
+Average wait time using 1 queue(s): 323
+Average wait time using 2 queue(s): 287
+Average wait time using 3 queue(s): 251
+Average wait time using 4 queue(s): 215
+Average wait time using 5 queue(s): 179
+Average wait time using 6 queue(s): 143
+Average wait time using 7 queue(s): 107
+Average wait time using 8 queue(s): 71
+Average wait time using 9 queue(s): 35
+Average wait time using 10 queue(s): 2
+
+Deque
+Average arrival rate: 20
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 1
+Average wait time using 8 deque(s): 2
+Average wait time using 9 deque(s): 5
+Average wait time using 10 deque(s): 2
+
+Stack
+Average arrival rate: 21
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 21
+Average wait time using 1 queue(s): 325
+Average wait time using 2 queue(s): 290
+Average wait time using 3 queue(s): 256
+Average wait time using 4 queue(s): 222
+Average wait time using 5 queue(s): 187
+Average wait time using 6 queue(s): 153
+Average wait time using 7 queue(s): 119
+Average wait time using 8 queue(s): 85
+Average wait time using 9 queue(s): 50
+Average wait time using 10 queue(s): 17
+
+Deque
+Average arrival rate: 21
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 1
+Average wait time using 9 deque(s): 3
+Average wait time using 10 deque(s): 7
+
+Stack
+Average arrival rate: 22
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 22
+Average wait time using 1 queue(s): 326
+Average wait time using 2 queue(s): 293
+Average wait time using 3 queue(s): 261
+Average wait time using 4 queue(s): 228
+Average wait time using 5 queue(s): 195
+Average wait time using 6 queue(s): 163
+Average wait time using 7 queue(s): 130
+Average wait time using 8 queue(s): 97
+Average wait time using 9 queue(s): 65
+Average wait time using 10 queue(s): 32
+
+Deque
+Average arrival rate: 22
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 1
+Average wait time using 9 deque(s): 2
+Average wait time using 10 deque(s): 5
+
+Stack
+Average arrival rate: 23
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 23
+Average wait time using 1 queue(s): 328
+Average wait time using 2 queue(s): 296
+Average wait time using 3 queue(s): 265
+Average wait time using 4 queue(s): 234
+Average wait time using 5 queue(s): 203
+Average wait time using 6 queue(s): 171
+Average wait time using 7 queue(s): 140
+Average wait time using 8 queue(s): 109
+Average wait time using 9 queue(s): 77
+Average wait time using 10 queue(s): 45
+
+Deque
+Average arrival rate: 23
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 1
+Average wait time using 9 deque(s): 2
+Average wait time using 10 deque(s): 3
+
+Stack
+Average arrival rate: 24
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 24
+Average wait time using 1 queue(s): 329
+Average wait time using 2 queue(s): 299
+Average wait time using 3 queue(s): 269
+Average wait time using 4 queue(s): 239
+Average wait time using 5 queue(s): 209
+Average wait time using 6 queue(s): 179
+Average wait time using 7 queue(s): 149
+Average wait time using 8 queue(s): 118
+Average wait time using 9 queue(s): 89
+Average wait time using 10 queue(s): 59
+
+Deque
+Average arrival rate: 24
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 1
+Average wait time using 10 deque(s): 2
+
+Stack
+Average arrival rate: 25
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 25
+Average wait time using 1 queue(s): 330
+Average wait time using 2 queue(s): 301
+Average wait time using 3 queue(s): 273
+Average wait time using 4 queue(s): 244
+Average wait time using 5 queue(s): 215
+Average wait time using 6 queue(s): 187
+Average wait time using 7 queue(s): 158
+Average wait time using 8 queue(s): 128
+Average wait time using 9 queue(s): 100
+Average wait time using 10 queue(s): 71
+
+Deque
+Average arrival rate: 25
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 1
+Average wait time using 10 deque(s): 2
+
+Stack
+Average arrival rate: 26
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 26
+Average wait time using 1 queue(s): 331
+Average wait time using 2 queue(s): 304
+Average wait time using 3 queue(s): 276
+Average wait time using 4 queue(s): 248
+Average wait time using 5 queue(s): 220
+Average wait time using 6 queue(s): 194
+Average wait time using 7 queue(s): 165
+Average wait time using 8 queue(s): 137
+Average wait time using 9 queue(s): 110
+Average wait time using 10 queue(s): 83
+
+Deque
+Average arrival rate: 26
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 1
+Average wait time using 10 deque(s): 1
+
+Stack
+Average arrival rate: 27
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 27
+Average wait time using 1 queue(s): 332
+Average wait time using 2 queue(s): 306
+Average wait time using 3 queue(s): 279
+Average wait time using 4 queue(s): 252
+Average wait time using 5 queue(s): 226
+Average wait time using 6 queue(s): 199
+Average wait time using 7 queue(s): 173
+Average wait time using 8 queue(s): 145
+Average wait time using 9 queue(s): 119
+Average wait time using 10 queue(s): 92
+
+Deque
+Average arrival rate: 27
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 1
+Average wait time using 10 deque(s): 1
+
+Stack
+Average arrival rate: 28
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 28
+Average wait time using 1 queue(s): 333
+Average wait time using 2 queue(s): 307
+Average wait time using 3 queue(s): 282
+Average wait time using 4 queue(s): 256
+Average wait time using 5 queue(s): 231
+Average wait time using 6 queue(s): 205
+Average wait time using 7 queue(s): 179
+Average wait time using 8 queue(s): 153
+Average wait time using 9 queue(s): 128
+Average wait time using 10 queue(s): 102
+
+Deque
+Average arrival rate: 28
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 1
+
+Stack
+Average arrival rate: 29
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 29
+Average wait time using 1 queue(s): 334
+Average wait time using 2 queue(s): 309
+Average wait time using 3 queue(s): 284
+Average wait time using 4 queue(s): 260
+Average wait time using 5 queue(s): 235
+Average wait time using 6 queue(s): 210
+Average wait time using 7 queue(s): 186
+Average wait time using 8 queue(s): 160
+Average wait time using 9 queue(s): 135
+Average wait time using 10 queue(s): 111
+
+Deque
+Average arrival rate: 29
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 1
+
+Stack
+Average arrival rate: 30
+Average wait time using 1 stack(s): 0
+Average wait time using 2 stack(s): 0
+Average wait time using 3 stack(s): 0
+Average wait time using 4 stack(s): 0
+Average wait time using 5 stack(s): 0
+Average wait time using 6 stack(s): 0
+Average wait time using 7 stack(s): 0
+Average wait time using 8 stack(s): 0
+Average wait time using 9 stack(s): 0
+Average wait time using 10 stack(s): 0
+
+Queue
+Average arrival rate: 30
+Average wait time using 1 queue(s): 335
+Average wait time using 2 queue(s): 311
+Average wait time using 3 queue(s): 287
+Average wait time using 4 queue(s): 263
+Average wait time using 5 queue(s): 239
+Average wait time using 6 queue(s): 215
+Average wait time using 7 queue(s): 191
+Average wait time using 8 queue(s): 168
+Average wait time using 9 queue(s): 143
+Average wait time using 10 queue(s): 119
+
+Deque
+Average arrival rate: 30
+Average wait time using 1 deque(s): 0
+Average wait time using 2 deque(s): 0
+Average wait time using 3 deque(s): 0
+Average wait time using 4 deque(s): 0
+Average wait time using 5 deque(s): 0
+Average wait time using 6 deque(s): 0
+Average wait time using 7 deque(s): 0
+Average wait time using 8 deque(s): 0
+Average wait time using 9 deque(s): 0
+Average wait time using 10 deque(s): 1
